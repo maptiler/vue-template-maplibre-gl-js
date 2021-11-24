@@ -1,14 +1,30 @@
 {
-  "name": "hello-world",
-  "version": "0.1.0",
-  "private": true,
+  "name": "vue-template-maplibre-gl-js",
+  "description": "Vue.js map using MapLibre GL JS",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "template",
+    "map",
+    "maplibre",
+    "maplibre-gl-js"
+  ],
+  "author": "MapTiler Team <info@maptiler.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maptiler/vue-template-maplibre-gl-js/issues"
+  },
+  "homepage": "https://github.com/maptiler/vue-template-maplibre-gl-js#readme",
   "dependencies": {
     "core-js": "^3.6.5",
+    "maplibre-gl": "^1.15.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
