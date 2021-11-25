@@ -51,6 +51,10 @@ Clone the repo to create a new Vue.js project. Run in your command-line:
 
 Navigate to the newly created project folder **my-vue-map**
 
+```
+  cd my-vue-map
+```
+
 Install the NPM packages dependencies. Run in your command-line:
 
 ```
@@ -60,6 +64,10 @@ Install the NPM packages dependencies. Run in your command-line:
 ### API KEY
 
 Rename or copy the `.env.example` file to `.env`
+
+```
+  cp .env.example .env
+```
 
 Open the `.env` file, :warning: you will need to replace **YOUR_MAPTILER_API_KEY** with your own MapTiler API key.
 
