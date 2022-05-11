@@ -38,7 +38,7 @@ This project was generated with [Vue CLI](https://cli.vuejs.org/) version 4.5.15
   ```sh
   npm install npm@latest -g
   ```
-* Angular CLI
+* Vue.js CLI
   ```sh
   npm install -g @vue/cli
   ```
@@ -92,6 +92,20 @@ You will find your app on address http://localhost:8080/.
 Now you should see the app in your browser.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Build
+
+To build for production, run: 
+```
+  npm run build
+``` 
+
+### gh-pages
+
+To deploy the app to the gh-pages branch, run:
+```
+  node gh-pages.js
+``` 
 
 <!-- LICENSE -->
 ## License
