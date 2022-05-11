@@ -12,6 +12,10 @@ A simple fullscreen map application is used to showcase how to utilize MapTiler 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Step-by-step tutorial - How to display a map in Vue.js using MapLibre GL JS
+
+Documentation: [How to display a map in Vue.js using MapLibre GL JS](https://documentation.maptiler.com/hc/en-us/articles/4413873409809-how-to-display-a-map-in-vue-js-using-maplibre-gl-js?utm_medium=referral&utm_source=github&utm_campaign=2022-05%20%7C%20js%20frameworks%20%7C%20vue.js%20)
+
 ## Demo
 
 Online demo: https://labs.maptiler.com/vue-template-maplibre-gl-js/
