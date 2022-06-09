@@ -7,7 +7,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "dist": "vue-cli-service build --mode dist"
+    "dist": "vue-cli-service build --mode dist",
+    "predeploy": "npm run build",
+    "deploy": "node gh-pages.js"
   },
   "keywords": [
     "vue",
