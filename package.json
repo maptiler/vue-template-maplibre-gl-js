@@ -25,7 +25,7 @@
   "homepage": "https://github.com/maptiler/vue-template-maplibre-gl-js#readme",
   "dependencies": {
     "core-js": "^3.6.5",
-    "maplibre-gl": "^1.15.2",
+    "maplibre-gl": "^2.0.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
