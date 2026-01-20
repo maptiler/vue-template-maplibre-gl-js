@@ -108,12 +108,6 @@ To deploy the app to the gh-pages branch, run:
 node gh-pages.js
 ```
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<br>
-
 ## 💡 Related Examples
 
 - [How to display a map in Vue.js using MapLibre GL JS](https://docs.maptiler.com/vuejs/maplibre-gl-js/how-to-use-maplibre-gl-js/)
@@ -160,7 +154,6 @@ This project is built on the shoulders of giants:
 - [MapTiler](https://www.maptiler.com/) – Maps for developers
 - [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) – Open-source TypeScript library for publishing maps on your website
 - [Vue.js](https://vuejs.org/) – The Progressive JavaScript Framework
-- [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) – Vue 3 plugin for maplibre-gl-js
 
 <br>
 
